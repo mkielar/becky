@@ -1,0 +1,16 @@
+{
+
+	"settings" : {
+
+	},
+
+	"backup" : {
+
+		"CB5A1XXZGK" : [
+			{ "autoStart" : true,  "method" : "copy", "sourceFolder" : "/storage/sdcard1/DCIM",  "destinationFolder" : "d:\\phone-backup\\DCIM"  },
+			{ "autoStart" : false, "method" : "move", "sourceFolder" : "/storage/sdcard1/Other", "destinationFolder" : "d:\\phone-backup\\Other" }
+		]
+
+	}
+	
+}

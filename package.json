@@ -1,0 +1,22 @@
+{
+  "name": "becky",
+  "version": "0.1.0",
+  "description": "",
+  "main": "becky.js",
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node ./becky.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "adbkit": "^2.3.0",
+    "bluebird": "^2.9.33",
+    "jsonfile": "^2.2.1",
+    "log4js": "^0.6.26"
+  },
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "strip-ansi-cli": "^1.0.0"
+  }
+}
