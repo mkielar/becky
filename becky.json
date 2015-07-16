@@ -7,8 +7,8 @@
 	"backup" : {
 
 		"CB5A1XXZGK" : [
-			{ "autoStart" : true,  "method" : "copy", "sourceFolder" : "/storage/sdcard1/DCIM",  "destinationFolder" : "d:\\phone-backup\\DCIM"  },
-			{ "autoStart" : false, "method" : "move", "sourceFolder" : "/storage/sdcard1/Other", "destinationFolder" : "d:\\phone-backup\\Other" }
+			{ "autoStart" : true,  "method" : "copy", "source" : "/storage/sdcard1/test",  "destination" : "d:\\phone-backup\\test"  },
+			{ "autoStart" : false, "method" : "move", "source" : "/storage/sdcard1/Other", "destination" : "d:\\phone-backup\\Other" }
 		]
 
 	}
