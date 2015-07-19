@@ -7,7 +7,7 @@
 	"backup" : {
 
 		"CB5A1XXZGK" : [
-			{ "autoStart" : true,  "method" : "copy", "source" : "/storage/sdcard1/test",  "destination" : "d:\\phone-backup\\test", "synchronizeEmptyFolders" : false },
+			{ "autoStart" : true,  "method" : "copy", "source" : "/storage/sdcard1/test",  "destination" : "d:\\phone-backup\\test", "synchronizeEmptyFolders" : true },
 			{ "autoStart" : false, "method" : "move", "source" : "/storage/sdcard1/Other", "destination" : "d:\\phone-backup\\Other" }
 		]
 
